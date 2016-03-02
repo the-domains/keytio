@@ -1,0 +1,14 @@
+layout_spectrum: 0.9417293
+typography_spectrum: 0.2994987
+color:
+  saturation: 0.8890978
+  lightness: 0.4611529
+  brandStrength: 0.9886581
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#BFBFBF'
+    - '#E2E2E2'
+    - '#787878'
+  rhythmicContrast: 0.5494987
+name: Keytio
